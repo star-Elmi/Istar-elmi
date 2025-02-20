@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://localhost:5173/](http://localhost:5173/)
 
-- 💬 Ask me about **html css javascript react Boostrap**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **istarmohamed503@gmail.com**
 
